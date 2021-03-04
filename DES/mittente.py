@@ -1,0 +1,3 @@
+from funzioni import *
+
+passaggio_key_invia(N_chiavePubblica_passaggioChiavi,g_chiavePubblica_passaggioChiavi)

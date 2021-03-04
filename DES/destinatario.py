@@ -1,0 +1,2 @@
+from funzioni import *
+passaggio_key_ricevi(N_chiavePubblica_passaggioChiavi,g_chiavePubblica_passaggioChiavi)

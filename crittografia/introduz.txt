@@ -1,0 +1,16 @@
+Cifrare: passare da un messaggio in chiaro a un messaggio leggibile
+
+Decifrare: il contrario
+
+Messaggio "crittografato/cifrato"
+
+Algoritmo crittografico:
+	- algoritmo vero e proprio che decifra o cifra (regola matematica)
+	- uno o più parametri (stringa di numeri o di lettere che fanno da chiave)
+
+2 tipi di sistemi crittografici:
+
+	- simmetrico: una chiave per crittografare e decrittografare
+	- asimmetrico: due chiavi diverse una per crittografare (chiave pubblica) e l'altra per decrittografare (chiave privata)
+
+l'algoritmo di decriptazione è pubblico, è conosciuto. La chiave è segreta
